@@ -1,3 +1,16 @@
+---
+layout: post
+title: "Cocone M TechUp Blog 포스팅 가이드"
+excerpt: ""
+author: han_jaesun
+comments: true
+categories: Culture
+date: 2023-01-15
+image: https://user-images.githubusercontent.com/93178834/139623172-2ea6dde4-6b58-403f-b053-f14a2b30e3d6.png
+thumbnail: https://user-images.githubusercontent.com/93178834/139623172-2ea6dde4-6b58-403f-b053-f14a2b30e3d6.png
+tags: [techblog, guide, markdown]
+---
+
 
 
 안녕하세요😊
@@ -9,11 +22,3 @@
 
 Cocone M에서는 개발자들의 역량 강화를 위한 개발자 문화가 있는데요, 테크 블로그가 그 문화 중 하나입니다~!
 하지만 그동안에는 테크 블로그에 크게 힘을 쓰지 못해서 아쉬웠는데요~ 2023년부터는 개발자분들이 이 테크 블로그를 좀 더 활발하게 사용하실 수 있도록, 다양한 것들을 계획하고 있습니다~!
-
-
-
-Cocone M 에서는 개발과 관련하여, 재미난 IT 소식, 최신 기술 동향, 내가 끌리는 기술, 게임 토크 등 다양한 내용들을 서로 공유하여, 개발자들의 기술 역량 강화에 힘쓰고 있습니다~!
-
-
-이를 위한 Cocone M 문화 중에는, 이 테크 블로그도 있답니다~!
-이전까지는 테크 블로그가 활성 상태가 미약했는데요
